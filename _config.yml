@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: a packless shepherd
-description: guiding himself through the plains of thought
-github_username: Davidvandijcke
+title: "a packless shepherd"
+description: "guiding himself through the plains of thought"
+github_username: "Davidvandijcke"
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "packlesshepherd"
 
